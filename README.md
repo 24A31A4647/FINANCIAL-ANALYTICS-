@@ -1,2 +1,3 @@
 # FINANCIAL-ANALYTICS-
 This repository contains financial data analysis and visualization projects designed to extract meaningful insights from financial datasets. It includes data cleaning, exploratory data analysis (EDA), KPI tracking, forecasting, dashboard creation, and financial performance evaluation using tools such as Python, SQL, Excel, and Power BI.
+ Power BI Financial Analytics Dashboard that provides comprehensive insights into revenue, expenses, profit, cash flow, and financial performance through interactive visualizations, KPI tracking, and trend analysis for data-driven business decisions.
